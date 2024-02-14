@@ -1,1 +1,1 @@
-# Detec-o-de-Objetos-em-Tempo-Real
+# Detecão de Objetos em Tempo Real
